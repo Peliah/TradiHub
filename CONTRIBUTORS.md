@@ -9,6 +9,7 @@ We thank the following individuals and teams for their contributions to TradiHub
 - **YOUALEU TCHOUASSI Frank Loic** – Project Lead and Backend Developer
 - **VANYA TOUMI BERTONY** – Backend Developer and API Architect
 - **PELAYAH EPOUPA** - Fronend Developer and API Intergations
+- **SELAPOUE NOUA AIMERICK** - Fullstack Developer
 - **TCHUENTE YADOU Yvan** - Fullstack Developer
 
 ---
