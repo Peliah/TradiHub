@@ -129,10 +129,12 @@ If you have any questions or feedback, feel free to contact us via frankpythagor
 
 ## Acknowledgments
 ### Project Founders
-- [Youaleu Tchouassi Frank Loic]() - Lead developer
+- [Youaleu Tchouassi Frank Loic](https://pythagore.vercel.app/) - Lead developer
 - [Vanya Toumi Bertomy]() - Backend developer
 - [Pelayah Epoupa]() - Frontend developer
+- [Selapoue Noua Aimrick]() - Full stack developer
 - [Tchuente Yado Yvan]() - UI/UX and Full stack developer
+
 
 ---
 
