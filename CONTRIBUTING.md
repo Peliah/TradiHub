@@ -8,4 +8,4 @@ Thanks for your interest in contributing to TradiHub! Here are the steps:
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Submit a pull request!
 
-For more details, see our [Code of Conduct](code-of-conduct.md).
+For more details, see our [Code of Conduct](CODE_OF_CONDUCT.md).
